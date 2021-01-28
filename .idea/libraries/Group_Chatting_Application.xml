@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Group_Chatting_Application">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/chatting-application-master/Group Chatting Application/dist/Group_Chatting_Application.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
